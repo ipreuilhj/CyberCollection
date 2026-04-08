@@ -32,9 +32,6 @@ Score : 75/100
 
 ---
 
-#  Outil d'analyse d'IP
-
-```markdown
 # 🌍 Outil d'analyse d'IP
 
 ## 📌 Description
